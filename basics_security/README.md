@@ -1,6 +1,5 @@
 Basics Security
 Welcome to the Basics Security folder! This section is all about getting comfortable with fundamental cybersecurity concepts.
-
 What’s Inside?
 Simple explanations of what firewalls are and how they protect networks
 
