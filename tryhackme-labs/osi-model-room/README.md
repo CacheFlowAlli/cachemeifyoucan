@@ -37,7 +37,7 @@ This room walks through each layer with interactive questions and examples.
 - The **Application layer** provides network services directly to user apps (HTTP, FTP).
 
 - 
-![OSI Model Diagram](tryhackme-labs/osi-model-room/screenshots/OSIdiagram.png)
+![OSI Model Diagram](screenshots/OSIdiagram.png)
 ---
 
 ## Key Takeaways
