@@ -1,5 +1,4 @@
 # Wireshark Packet Capture Project
-
 ## What is Wireshark?
 
 Wireshark is a free tool that lets you see and analyze the data traveling through your network. It’s like a magnifying glass for network traffic.
