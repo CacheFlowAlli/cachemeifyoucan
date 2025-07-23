@@ -1,6 +1,5 @@
 Practice Projects
 Welcome to the Practice Projects folder! This is where theory meets action through simple, hands-on exercises.
-
 What’s Inside?
 Step-by-step projects to help you practice networking and security skills
 
