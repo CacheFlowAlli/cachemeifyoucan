@@ -1,6 +1,5 @@
 Tools and Scripts
 Welcome to the Tools and Scripts folder! Here you’ll find beginner-friendly utilities designed to make networking and security tasks easier.
-
 What’s Inside?
 Simple scripts for automating routine tasks like port scanning and log analysis
 
