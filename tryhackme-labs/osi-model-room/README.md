@@ -35,8 +35,9 @@ This room walks through each layer with interactive questions and examples.
 - The **Session layer** establishes and maintains sessions.  
 - The **Presentation layer** translates data formats and encrypts/decrypts.  
 - The **Application layer** provides network services directly to user apps (HTTP, FTP).
-![OSI Model Diagram](screenshots
-/Screenshot 2025-07-22 222830.png)
+
+- 
+![OSI Model Diagram](/Screenshot 2025-07-22 222830.png)
 ---
 
 ## Key Takeaways
