@@ -1,6 +1,5 @@
 Notes and References
 Welcome to the Notes and References folder! This is your go-to spot for helpful study materials and extra resources.
-
 What’s Inside?
 Concise study notes summarizing key concepts in networking and cybersecurity
 
