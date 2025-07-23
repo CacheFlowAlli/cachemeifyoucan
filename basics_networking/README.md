@@ -1,6 +1,5 @@
 Basics Networking
 Welcome to the Basics Networking folder! This section is designed for beginners eager to understand how networks work from the ground up.
-
 What’s Inside?
 Clear explanations of key networking concepts like packets, IP addresses, and ports
 
